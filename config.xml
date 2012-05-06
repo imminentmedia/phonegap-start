@@ -4,7 +4,7 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>imminent media design: Getting Started</name>
 
 	<description>
 		A template for getting started with PhoneGap development and build.phonegap.com
@@ -12,7 +12,7 @@
 
 	<author href="http://imminentmedia.github.com"
 		email="stuart@imminent.com.au">
-		Andrew Lunny
+		
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
